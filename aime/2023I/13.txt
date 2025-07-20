@@ -1,0 +1,1 @@
+Each face of two noncongruent parallelepipeds is a rhombus whose diagonals have lengths $\sqrt{21}$ and $\sqrt{31}$. The ratio of the volume of the larger of the two polyhedra to the volume of the smaller is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$. A parallelepiped is a solid with six parallelogram faces such as the one shown below.

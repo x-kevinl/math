@@ -1,0 +1,1 @@
+Rectangle $ABCD$ has dimensions $AB = 107$ and $BC = 16$, and rectangle $EFGH$ has dimensions $EF = 184$ and $FG = 17$. Points $D$, $E$, $C$, and $F$ lie on line $DF$ in that order, and $A$ and $H$ lie on opposite sides of line $DF$, as shown. Points $A$, $D$, $H$, and $G$ lie on a common circle. Find $CE$.

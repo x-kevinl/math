@@ -1,0 +1,1 @@
+Let $A$, $B$, $C$, $D$ be points on the hyperbola  $\tfrac{x^2}{20}-\tfrac{y^2}{24}=1$ such that $ABCD$ is a rhombus whose diagonals intersect at the origin. Find the largest number less than $BD^2$ for all rhombuses $ABCD$.
