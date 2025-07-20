@@ -1,0 +1,1 @@
+A piecewise linear function is defined by $$f(x) = \begin{cases} x & \operatorname{if} ~ -1 \leq x < 1 \\ 2 - x & \operatorname{if} ~ 1 \leq x < 3\end{cases}$$ and $f(x + 4) = f(x)$ for all real numbers $x$. The graph of $f(x)$ has the sawtooth pattern depicted below.
